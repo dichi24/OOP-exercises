@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\bin\Debug\net8.0\Excersises.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\bin\Debug\net8.0\Excersises.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\bin\Debug\net8.0\Excersises.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\bin\Debug\net8.0\Excersises.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\bin\Debug\net8.0\Excersises.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\refint\Excersises.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\Excersises.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\obj\Debug\net8.0\ref\Excersises.dll

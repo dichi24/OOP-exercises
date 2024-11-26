@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\bin\Debug\net8.0\Addition.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\bin\Debug\net8.0\Addition.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\bin\Debug\net8.0\Addition.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\bin\Debug\net8.0\Addition.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\bin\Debug\net8.0\Addition.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\refint\Addition.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\Addition.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Addition\obj\Debug\net8.0\ref\Addition.dll

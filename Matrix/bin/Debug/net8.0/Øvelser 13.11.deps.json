@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Øvelser 13.11/1.0.0": {
+        "runtime": {
+          "Øvelser 13.11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Øvelser 13.11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

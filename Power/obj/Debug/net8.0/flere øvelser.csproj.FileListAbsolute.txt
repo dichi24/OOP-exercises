@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\bin\Debug\net8.0\flere øvelser.exe
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\bin\Debug\net8.0\flere øvelser.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\bin\Debug\net8.0\flere øvelser.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\bin\Debug\net8.0\flere øvelser.dll
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\bin\Debug\net8.0\flere øvelser.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.dll
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\refint\flere øvelser.dll
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\flere øvelser.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\flere øvelser\obj\Debug\net8.0\ref\flere øvelser.dll

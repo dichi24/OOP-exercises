@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\bin\Debug\net8.0\Gennemsnitlig Karakter.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\bin\Debug\net8.0\Gennemsnitlig Karakter.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\bin\Debug\net8.0\Gennemsnitlig Karakter.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\bin\Debug\net8.0\Gennemsnitlig Karakter.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\bin\Debug\net8.0\Gennemsnitlig Karakter.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\refint\Gennemsnitlig Karakter.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\Gennemsnitlig Karakter.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Gennemsnitlig Karakter\obj\Debug\net8.0\ref\Gennemsnitlig Karakter.dll

@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\bin\Debug\net8.0\Temperatur.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\bin\Debug\net8.0\Temperatur.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\bin\Debug\net8.0\Temperatur.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\bin\Debug\net8.0\Temperatur.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\bin\Debug\net8.0\Temperatur.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\refint\Temperatur.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\Temperatur.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Temperatur\obj\Debug\net8.0\ref\Temperatur.dll

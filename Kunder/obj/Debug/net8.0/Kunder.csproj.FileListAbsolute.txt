@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\bin\Debug\net8.0\Kunder.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\bin\Debug\net8.0\Kunder.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\bin\Debug\net8.0\Kunder.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\bin\Debug\net8.0\Kunder.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\bin\Debug\net8.0\Kunder.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\refint\Kunder.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\Kunder.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Kunder\obj\Debug\net8.0\ref\Kunder.dll

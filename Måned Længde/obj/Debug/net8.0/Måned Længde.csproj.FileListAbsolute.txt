@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\bin\Debug\net8.0\Måned Længde.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\bin\Debug\net8.0\Måned Længde.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\bin\Debug\net8.0\Måned Længde.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\bin\Debug\net8.0\Måned Længde.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\bin\Debug\net8.0\Måned Længde.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\refint\Måned Længde.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\Måned Længde.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Måned Længde\obj\Debug\net8.0\ref\Måned Længde.dll

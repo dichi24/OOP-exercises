@@ -1,0 +1,14 @@
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\bin\Debug\net8.0\Indeksering.exe
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\bin\Debug\net8.0\Indeksering.deps.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\bin\Debug\net8.0\Indeksering.runtimeconfig.json
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\bin\Debug\net8.0\Indeksering.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\bin\Debug\net8.0\Indeksering.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.AssemblyInfoInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.AssemblyInfo.cs
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\refint\Indeksering.dll
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.pdb
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\Indeksering.genruntimeconfig.cache
+C:\Users\Bruger\OneDrive\Skrivebord\Excersises\Indeksering\obj\Debug\net8.0\ref\Indeksering.dll
